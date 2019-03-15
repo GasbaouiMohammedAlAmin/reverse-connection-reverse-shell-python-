@@ -6,3 +6,4 @@ reverse connection (reverse shell python)
 - after finishing the configuration execute the server.py through the commmand [python3 server.py]
 - should be the db_config.db file and client.py in the same location
 - after executing the server , execute the client therough the command [python3 client.py]
+demontration video : https://www.youtube.com/watch?v=TYvp-Hbqqz0&t=131s
